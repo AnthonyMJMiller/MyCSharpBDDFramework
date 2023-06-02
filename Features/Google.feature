@@ -11,3 +11,4 @@ Scenario Outline: Verify search box accepts alphanumeric characters
 	| asjkbvuig649857 |
 	| alkjbvuygrej875 |
 	| jguykuoo786348g |
+	| yiuh89iuhg54jbh |
