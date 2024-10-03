@@ -62,8 +62,8 @@ namespace AMillersCSharpBDDFramework.Hooks
             IWebDriver driver = new ChromeDriver();
 
             // for running tests headless as an option.
-            /* var options = new ChromeOptions();
-             options.AddArgument("--headless"); */
+            var options = new ChromeOptions();
+             options.AddArgument("--headless");
 
             driver.Manage().Window.Maximize();
 
